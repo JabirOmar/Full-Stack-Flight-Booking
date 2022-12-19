@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans';
+}
+
+body {
+  background-color: white;
+}
+
+body.dark {
+  background-color: #2b3030;
+  /* background-color: #333; */
+  color: white;
+}
+
+.sections {
+  margin-top: 62px;
+}
+
+.diplay_ticket {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 1px solid;
+  background-color: #2b3030;
+}
+

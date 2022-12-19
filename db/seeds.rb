@@ -1,0 +1,2 @@
+
+Passenger.create(from: "China", to: "Russia", firstName: "Ibrahim", middleName: "Muhammed", lastName: "Khalid", nationality: "Somali", gender: "Male", title: "Mr", age: "23", depDate: "2023/01/10", retrnDate: "2023/02/10")
